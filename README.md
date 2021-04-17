@@ -32,7 +32,7 @@ instantiate the main class.
 
 The simplest usage in a module is to simply do:
 ```
-  platform_assertion::supported($module_name)
+  platform_assert::supported($module_name)
 ```
 in a module's `init.pp`
 
